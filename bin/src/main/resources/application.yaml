@@ -1,0 +1,8 @@
+aspect:
+  enabled: true
+spring:
+  application:
+    name: validationswithaop
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher

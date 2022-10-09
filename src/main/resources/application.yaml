@@ -1,0 +1,5 @@
+aspect:
+  enabled: true
+spring:
+  application:
+    name: validationswithaop
